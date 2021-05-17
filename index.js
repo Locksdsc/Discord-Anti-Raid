@@ -87,7 +87,7 @@ const Title = String.raw`
                            ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
                                            
                                 
-                                     Anti Nuke | Fowlmas
+                                     Anti Raid | bbno$
 
 `;
 
