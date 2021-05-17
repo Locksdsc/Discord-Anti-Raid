@@ -1,4 +1,4 @@
-Bref c'est un anti-raid prcq le bot oneforall bz peut pas rester co ducoup il est facile de bz les serv ( baby#1337 je te bz)
+Bref c'est un anti-raid prcq le bot oneforall pEtE peut pas rester co ducoup il est facile de bz les serv ( baby#1337 je te bz)
 
 je mets ce bot car y'a un enculE qui se nomme yanis.exe qui me fait pas confiance 
 
