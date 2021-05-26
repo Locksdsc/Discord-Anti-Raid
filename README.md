@@ -14,8 +14,9 @@ Ouvrez le fichier sur Notepad++ ou un Editeur de code, c'est-a-dire VSC (Visual 
 Remplissez toutes les espaces 
 et Enregistrez
 
-npm install chalk
-npm install discord-pagination
+node install chalk
+
+node install discord-pagination
 
 Pour que le bot ne sort pas du serveur mettez le "AllowGuilds" sur True et ajoutez l'id de votre serveur sur permitted guilds
 
