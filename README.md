@@ -5,3 +5,14 @@ je mets ce bot car y'a un enculE qui se nomme yanis.exe qui me fait pas confianc
 l'utilisation est trop facile donc si vous savez pas utiliser le script c'est que vous etes surement con. merci.
 
 Bsoin d'aide : bbno$#1337
+
+Utilisation: 
+
+ExEcutez le fichier de lancement et il installera npm puis attendez que tous les packages soient installEs
+Click droit sur le fichier settings.json
+Ouvrez le fichier sur Notepad++ ou un Editeur de code, c'est-a-dire VSC (Visual Studio Code)
+Remplissez toutes les espaces 
+et Enregistrez
+
+Pour que le bot ne sort pas du serveur mettez le "AllowGuilds" sur True et ajoutez l'id de votre serveur sur permitted guilds
+Run the run.bat file.
