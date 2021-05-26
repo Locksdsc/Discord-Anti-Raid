@@ -15,4 +15,4 @@ Remplissez toutes les espaces
 et Enregistrez
 
 Pour que le bot ne sort pas du serveur mettez le "AllowGuilds" sur True et ajoutez l'id de votre serveur sur permitted guilds
-Run the run.bat file.
+
