@@ -4,7 +4,7 @@ je mets ce bot car y'a un enculE qui se nomme yanis.exe qui me fait pas confianc
 
 l'utilisation est trop facile donc si vous savez pas utiliser le script c'est que vous etes surement con. merci.
 
-Bsoin d'aide : Kalomeo.#1337
+Bsoin d'aide : Locks.#1337
 
 Utilisation: 
 
