@@ -79,15 +79,10 @@ const Title = String.raw`
 
 
 
-                          ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
-                          ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-                          ██║  ███╗███████║██║   ██║███████╗   ██║   
-                          ██║   ██║██╔══██║██║   ██║╚════██║   ██║   
-                          ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
-                           ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
+                          
                                            
                                 
-                                     Anti Raid | bbno$
+                                     Anti Raid | Locks.#1337
 
 `;
 
@@ -107,7 +102,6 @@ client.on("message", message => {
 
   if (message.author.bot) return;
   if (message.channel.type === 'dm') return;
-
 
   // Logs Command
   if (message.content.startsWith(prefix)) {
