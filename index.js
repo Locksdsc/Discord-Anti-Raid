@@ -94,7 +94,7 @@ client.on("ready", () => {
   const userCount = client.guilds.cache.map((guild) => guild.memberCount).reduce((p, c) => p + c, 0);
   // Login
   console.log(cyan('              ════════════════════════════════════════════════════════════════════════════════'));
-  console.log(cyan(`                                           Guardian: ${client.user.username}#${client.user.discriminator} `));
+  console.log(cyan(`                                           Bot : ${client.user.username}#${client.user.discriminator} `));
   console.log(cyan('              ════════════════════════════════════════════════════════════════════════════════'));
 
 });
