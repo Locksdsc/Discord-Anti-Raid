@@ -80,9 +80,9 @@ const Title = String.raw`
 
 
                           
-                                           𐒄altus
+                                          
                                 
-                                     Anti Raid | Maltus.#1337
+                                     Anti Raid | Locks.#1337
 
 `;
 
