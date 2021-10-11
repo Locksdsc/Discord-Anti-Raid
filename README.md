@@ -4,7 +4,7 @@ je mets ce bot car y'a un enculE qui se nomme yanis.exe qui me fait pas confianc
 
 l'utilisation est trop facile donc si vous savez pas utiliser le script c'est que vous etes surement con. merci.
 
-Bsoin d'aide / help : Hazard#1338 , bbno$#1337 , Locks#1338 , Boolean#8888
+Bsoin d'aide / help : Hazard#1338 , bbno$#1337 , Locks#1338 , Boolean#8888 , EvcNoble#1338 , Nolove#1338
 
 Utilisation: 
 
